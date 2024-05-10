@@ -1,5 +1,5 @@
 ---
-title: Clothing Specifications
+title: KAWAII GORE !!
 description: Layered clothing specifications lists the specific technical requirements for the visible mesh, cages, and proper rigging and skinning data.
 ---
 
